@@ -1,0 +1,4 @@
+name: VarmkorvPlugin
+main: org.incendo.varmkorv.VarmkorvPlugin
+version: 1.0-SNAPSHOT
+api-version: 1.16
