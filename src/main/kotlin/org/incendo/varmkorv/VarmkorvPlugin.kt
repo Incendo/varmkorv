@@ -10,6 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin
 class VarmkorvPlugin : JavaPlugin() {
 
     @Inject
+    @Named("Message")
     private lateinit var message: String
 
     override fun onEnable() {
